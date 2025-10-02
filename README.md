@@ -11,7 +11,7 @@ Project Datasets:
 * departments.csv
 * order_products (1).csv
 
-Project Methodolgy:
+Project Methodology:
    1) Importing Necessary Libraries And Reading/ Uploading The Datasets
       
    2) Examining Each Dataset's Missing And Duplicate Values
