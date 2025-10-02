@@ -6,8 +6,11 @@ data from the enterainment industry.  The datasets that are included in this pro
 each dataset's missing and duplicate values appropriately, and solving questions/ propsed tasks with the use of: histograms and data analysis. 
 
 Project Tools And Libraries Used:
+
 *Pandas
+
 *Matplotlib
+
 *NumPy
 
 
