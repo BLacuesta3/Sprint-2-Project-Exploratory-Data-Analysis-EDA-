@@ -3,7 +3,13 @@ Project Title: Sprint 2/ Exploratory Data Analysis (EDA)
 Project Description: This project is a basic Python project that involves Exploratory Data analysis (EDA).  This project uses
 data from the enterainment industry.  The datasets that are included in this project are:  'instacart_orders (1).csv', 'products.csv',
 'departments.csv', and 'order_products (1).csv'.  This project involves: examining each dataset's missing and duplicate values, dealing with
-each dataset's missing and duplicate values appropriately, and solving questions/ propsed tasks with the use of: histograms and data analysis.
+each dataset's missing and duplicate values appropriately, and solving questions/ propsed tasks with the use of: histograms and data analysis. 
+
+Project Datasets:
+* instacart_orders (1).csv
+* products.csv
+* departments.csv
+* order_products (1).csv
 
 Project Methodolgy:
    1) Importing Necessary Libraries And Reading/ Uploading The Datasets
