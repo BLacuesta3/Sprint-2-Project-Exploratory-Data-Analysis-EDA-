@@ -5,13 +5,10 @@ data from the enterainment industry.  The datasets that are included in this pro
 'departments.csv', and 'order_products (1).csv'.  This project involves: examining each dataset's missing and duplicate values, dealing with
 each dataset's missing and duplicate values appropriately, and solving questions/ propsed tasks with the use of: histograms and data analysis. 
 
-Project Tools And Libraries Used:
-
-*Pandas
-
-*Matplotlib
-
-*NumPy
+Project Tools And Libraries Used
+   *Pandas
+   *Matplotlib
+   *NumPy
 
 
 Project Datasets:
