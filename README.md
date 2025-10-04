@@ -7,11 +7,11 @@ each dataset's missing and duplicate values appropriately, and solving questions
 
 Project Tools And Libraries Used:
 
-*Pandas
+*pandas
 
-*Matplotlib
+*matplotlib
 
-*NumPy
+*numpy
 
 
 Project Datasets:
